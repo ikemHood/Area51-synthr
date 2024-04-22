@@ -1,0 +1,6 @@
+wheel
+setuptools
+typing-extensions
+web3
+python-dotenv
+colorlog==6.8.2
